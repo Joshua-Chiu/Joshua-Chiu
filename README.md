@@ -16,7 +16,10 @@ I don't know why you want to but you can.
 ## 💡 Projects with My Work
 
 - [**PGDBWebServer**](https://github.com/Joshua-Chiu/PGDBWebServer): The result of: Two mildly motivated students + Boredom in high school + An aging and insecure database 
-- [**My Personal Site**](https://joshuachiu.com): I don't think it works...
+- [**My Personal Site**](https://joshuachiu.com): I don't think it works... 
+- [**My GitLab Instance**](https://git.joshuachiu.com): Coming back up soon
+- [**VSCode Common Server**](https://azure.vs.joshuachiu.com): Migrating to Azure
+
  
 ## 💻 Open Source Work Stats
 
